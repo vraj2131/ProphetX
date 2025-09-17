@@ -1,0 +1,78 @@
+# --------------------------
+# Python / Environment
+# --------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.dll
+*.dylib
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# --------------------------
+# Jupyter / Notebook
+# --------------------------
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+*.nbconvert.py
+*.nbconvert.html
+
+
+# --------------------------
+# Logs / Debug
+# --------------------------
+*.log
+*.out
+*.err
+logs/
+debug.log
+
+# --------------------------
+# Build / Packaging
+# --------------------------
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# --------------------------
+# OS / Misc
+# --------------------------
+.DS_Store
+Thumbs.db
+
+# --------------------------
+# Streamlit
+# --------------------------
+.streamlit/
+.streamlit/secrets.toml
+
+# --------------------------
+# IDE / Editors
+# --------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# --------------------------
+# Reports / Plots / Exports
+# --------------------------
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.html
+exports/
+outputs/
