@@ -98,6 +98,9 @@ Then open the local URL provided by Streamlit.
 ### Probabilistic Forecast
 ![Forecast Example](assets/forecast_example.png)
 
+### Dashboard
+[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?logo=streamlit)](https://vraj2131-prophetx-streamlit-app-guyqmx.streamlit.app/)
+
 ---
 
 ## 🔍 Key Insights
