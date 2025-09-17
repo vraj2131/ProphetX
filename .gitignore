@@ -69,10 +69,6 @@ Thumbs.db
 # Reports / Plots / Exports
 # --------------------------
 *.pdf
-*.png
-*.jpg
-*.jpeg
-*.svg
 *.html
 exports/
 outputs/
